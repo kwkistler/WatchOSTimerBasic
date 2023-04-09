@@ -3,6 +3,7 @@
 //  WatchOSTimerBasic Watch App
 //
 //  Created by Kraig Kistler on 4/9/23.
+//  Copyright © 2023 Kraig Kistler. All rights reserved.
 //
 
 import SwiftUI
